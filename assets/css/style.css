@@ -1,0 +1,13 @@
+.contain{
+    background-image: url("../../assets/pictures/separator/sep_2.jpg") ;
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 440px;
+    max-height: 440px;
+    /*position: relative;*/
+    z-index: 5;
+    border-bottom: 3px solid black;
+    margin-top: -62px;
+}
